@@ -1,7 +1,7 @@
 const style = {
 	wrapper: "grid grid-cols-5",
 	wordContainer: "text-[18px] font-medium bg-transparent border-[2px] mb-[8px] ml-[8px] border-black border-solid h-[32px] w-[32px] text-center hover:bg-blue-300 hover:text-white",
-	wordInactive: "text-[18px] bg-red-700 text-white  opacity-30 font-medium bg-transparent border-[2px] mb-[8px] ml-[8px] border-black border-solid h-[32px] w-[32px] text-center",
+	wordInactive: "text-[18px] bg-[#fc0000] text-white  opacity-30 font-medium bg-transparent border-[2px] mb-[8px] ml-[8px] border-black border-solid h-[32px] w-[32px] text-center",
 	wordActive: "text-[18px]   font-medium bg-[#0033ff] text-white border-[2px] mb-[8px] ml-[8px] border-black border-solid h-[32px] w-[32px] text-center",
 	cancel: "text-[18px]  opacity-30 font-medium bg-transparent border-[2px] mb-[8px] ml-[8px] border-black border-solid h-[32px] w-[32px] text-center"
 }
